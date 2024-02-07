@@ -1,0 +1,1 @@
+The Traffic Block by Country WordPress Plugin is a powerful tool designed to help website administrators control and manage traffic based on geographical location. Whether you want to restrict access from certain countries due to security concerns or tailor content for specific regions, this plugin offers a flexible and intuitive solution.
